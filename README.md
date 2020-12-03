@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanrycz" alt="chanrycz" /></a> </p>
 
-- 🔭 I’m currently working on [project name](project link)
+- 🔭 I’m currently working on [**a Discord Webhook Sender**](https://chanrycz.com/discord-webhook/)
 
 - 🌱 I’m currently learning **at School**
 
-- 👯 I’m looking to collaborate on [project name](project link)
+- 👯 I’m looking to collaborate on [**an E-Voting System**](https://chanrycz.com/vote/)
 
-- 👨‍💻 All of my projects are available at [https://chanrycz.com](https://chanrycz.com)
+- 👨‍💻 All of my projects are available at [**chanrycz.com**](https://chanrycz.com)
 
-- 📫 How to reach me **chanrycz.com/contact**
+- 📫 How to reach me [**Contact Page**](https://chanrycz.com/contact)
 
-- 📄 Know about my experiences [https://chanrycz.com/portfolio](https://chanrycz.com/portfolio)
+- 📄 Know about my experiences [**Portfolio Page**](https://chanrycz.com/portfolio)
 
 - ⚡ Fun fact **I like to look at random wikipedia articles**
 
