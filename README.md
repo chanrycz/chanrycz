@@ -6,50 +6,40 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanrycz" alt="chanrycz" /></a> </p>
 
 - 🔭 I’m currently working on [**a Discord Webhook Sender**](https://chanrycz.com/discord-webhook/)
-
 - 🌱 I’m currently learning **at School**
-
-- 👯 I’m looking to collaborate on [**an E-Voting System**](https://chanrycz.com/vote/)
-
+- 🤝 Open for collaborations in **Web Development**.
 - 👨‍💻 All of my projects are available at [**chanrycz.com**](https://chanrycz.com)
-
-- 📫 How to reach me [**Contact Page**](https://chanrycz.com/contact)
-
-- 📄 Know about my experiences [**Portfolio Page**](https://chanrycz.com/portfolio)
-
-- ⚡ Fun fact **I like to look at random wikipedia articles**
+- 📫 You can reach me through my [**contact page**](https://chanrycz.com/contact)
+- 📄 Know about my experiences on my [**potfolio Page**](https://chanrycz.com/portfolio)
+- ⚡ Fun fact: **I like to look at random wikipedia articles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/codepen username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen username" height="30" width="40" /></a>
-<a href="https://dev.to/dev.to username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to username" height="30" width="40" /></a>
 <a href="https://twitter.com/chanrycz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chanrycz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin username" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/stackoverflow user id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow user id" height="30" width="40" /></a>
-<a href="https://codesandbox.com/codesandbox username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="codesandbox username" height="30" width="40" /></a>
-<a href="https://kaggle.com/kaggle username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kaggle username" height="30" width="40" /></a>
-<a href="https://fb.com/facebook username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook username" height="30" width="40" /></a>
+<a href="https://repl.it/@chanrycz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg" alt="@chanrycz" height="30" width="40" /></a>
 <a href="https://instagram.com/chanrycz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chanrycz" height="30" width="40" /></a>
-<a href="https://dribbble.com/dribble username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="dribble username" height="30" width="40" /></a>
-<a href="https://www.behance.net/behance username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="behance username" height="30" width="40" /></a>
-<a href="https://medium.com/medium username (with @)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium username (with @)" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/youtube channel name" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube channel name" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/codechef username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef username" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hackerrank username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank username" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/codeforces username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codeforces username" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode username" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/hackerearth username (with @)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="hackerearth username (with @)" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gfg (<username>/profile)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="gfg (<username>/profile)" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/topcoder username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="topcoder username" height="30" width="40" /></a>
-<a href="/rss feed url" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="rss feed url" height="30" width="40" /></a>
+<a href="https://keybase.io/chanrycz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keybase.svg" alt="chanrycz" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanrycz&show_icons=true&locale=en&layout=compact" alt="chanrycz" /></p>
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+  <p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=chanrycz&show_icons=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chanrycz">
+  </p>
+ <br>
+<p align = "center"><img src="https://wakatime.com/share/@chanrycz/031cd32c-60ca-4e1f-8b17-cc0911813fd3.svg" alt="Wakatime report" height="300" />
+<img src="https://wakatime.com/share/@chanrycz/03123138-e278-45f3-9e81-e4f50047209e.svg" alt="Wakatime report" height="300" /></p>  
+</details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanrycz&show_icons=true&locale=en" alt="chanrycz" /></p>
-
+<details> 
+ <summary>🤖 <b>My programming stats</b>: </summary>
+<br>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+</details>
