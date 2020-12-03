@@ -15,8 +15,7 @@
 - 🌱 I’m currently learning **at School**
 - 🤝 Open for collaborations in **Web Development**.
 - 👨‍💻 All of my projects are available at [**chanrycz.com**](https://chanrycz.com)
-- 📫 You can reach me through my [**contact page**](https://chanrycz.com/contact)
-<!--- - 📄 Know about my experiences on my [**portfolio Page**](https://chanrycz.com/portfolio) -->
+- 📫 You can reach me through my [**contact page**](https://chanrycz.com/contact) <!--- - 📄 Know about my experiences on my [**portfolio Page**](https://chanrycz.com/portfolio) -->
 - ⚡ Fun fact: **I like to look at random wikipedia articles**
 
 <h3 align="left">Languages and Tools:</h3>
