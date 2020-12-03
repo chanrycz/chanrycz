@@ -53,3 +53,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanrycz&show_icons=true&locale=en" alt="chanrycz" /></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
