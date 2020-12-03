@@ -1,11 +1,9 @@
-<h1 align="center">Hey, I'm Ryan Chan</h1>
-<h3 align="center">A student, web developer, and graphics design enthusiast.</h3>
+<h1 align="center">Hey 👋, I'm Ryan Chan</h1>
+<h3 align="center">Student, Web Developer & Graphics Design Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanrycz&label=Profile%20views&color=0e75b6&style=flat" alt="chanrycz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanrycz" alt="chanrycz" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/chanrycz" target="blank"><img src="https://img.shields.io/twitter/follow/chanrycz?logo=twitter&style=for-the-badge" alt="chanrycz" /></a> </p>
 
 - 🔭 I’m currently working on [project name](project link)
 
