@@ -37,5 +37,79 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 102 Contributions in the Year 2020
+ > 
+> 📦 363.6 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories
+ > 
+> 🔑 3 Private Repositories 
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
+🌆 Daytime    14 commits     █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+🌃 Evening    45 commits     █████████████████░░░░░░░░   68.18% 
+🌙 Night      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52% 
+Tuesday      5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
+Wednesday    24 commits     █████████░░░░░░░░░░░░░░░░   36.36% 
+Thursday     20 commits     ███████░░░░░░░░░░░░░░░░░░   30.3% 
+Friday       8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+Saturday     5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
+Sunday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Other                    2 hrs 50 mins       ████████████████████████░   96.4% 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.6%
+
+🔥 Editors: 
+Chrome                   2 hrs 50 mins       ████████████████████████░   96.4% 
+VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.6%
+
+🐱‍💻 Projects: 
+chanrycz                 1 hr 48 mins        ███████████████░░░░░░░░░░   61.26% 
+Unknown Project          1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   38.74%
+
+```
+
+**I Mostly Code in PHP** 
+
+```text
+PHP                      2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+CSS                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/chanrycz/chanrycz/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 </details>
