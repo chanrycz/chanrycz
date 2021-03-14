@@ -9,7 +9,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=chanrycz&label=Profile%20views&color=0e75b6&style=flat" alt="chanrycz" /></p>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=chanrycz&theme=flat&title=Commit,Stars,Issues,PullRequest,Repositories" alt="chanrycz" /></a></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=chanrycz&theme=flat&title=Commit,Stars,Issues,PullRequest,Repositories" alt="chanrycz" /></p>
 
 - 🔭 I’m currently working on [**a Discord Webhook Sender**](https://chanrycz.com/discord-webhook/)
 - 🌱 I’m currently learning **Svelte**
