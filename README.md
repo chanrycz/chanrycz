@@ -11,11 +11,10 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=chanrycz&theme=flat&title=Commit,Stars,Issues,PullRequest,Repositories" alt="chanrycz" /></p>
 
-- 🔭 I’m currently working on [**a Discord Webhook Sender**](https://chanrycz.com/discord-webhook/)
-- 🌱 I’m currently learning **Svelte**
-- 🤝 Open for collaborations in **Web Development**.
+- 🔭 I’m currently working on [**a Mini Search Engine**](https://api.chanrycz.com/search)
+- 🌱 I’m currently learning **Vue**
 - 👨‍💻 All of my projects are available at [**chanrycz.com**](https://chanrycz.com)
-- 📫 You can reach me through my [**Contact Page**](https://chanrycz.com/contact)
+- 📫 You can reach me through my [**contact page**](https://chanrycz.com/contact)
 <!--- - 📄 Know about my experiences on my [**portfolio Page**](https://chanrycz.com/portfolio) -->
 - ⚡ Fun fact: [**I like to look at random wikipedia articles**](https://en.wikipedia.org/wiki/Special:Random)
 
