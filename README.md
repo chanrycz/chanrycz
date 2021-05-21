@@ -36,12 +36,13 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
- 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-394874%20lines%20of%20code-blue) 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-392269%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 143 Contributions in the Year 2021
+> 🏆 154 Contributions in the Year 2021
  > 
 > 📦 1.4 MB Used in Github's Storage 
  > 
@@ -54,22 +55,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    40 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-🌆 Daytime    47 commits     █████░░░░░░░░░░░░░░░░░░░░   21.36% 
-🌃 Evening    124 commits    ██████████████░░░░░░░░░░░   56.36% 
-🌙 Night      9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.09%
+🌞 Morning    40 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
+🌆 Daytime    47 commits     █████░░░░░░░░░░░░░░░░░░░░   20.35% 
+🌃 Evening    135 commits    ██████████████░░░░░░░░░░░   58.44% 
+🌙 Night      9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.9%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
-Tuesday      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-Wednesday    36 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
-Thursday     55 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Friday       20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Saturday     26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.82% 
-Sunday       44 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0%
+Monday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+Tuesday      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
+Wednesday    36 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
+Thursday     66 commits     ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Friday       20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.66% 
+Saturday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.26% 
+Sunday       44 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.05%
 
 ```
 
