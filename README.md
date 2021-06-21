@@ -81,17 +81,13 @@ Sunday       43 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-HTML                     10 mins             ██████████████░░░░░░░░░░░   56.32% 
-JSON                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.69% 
-JavaScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
-CSS                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   7.63% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-countdown-cfpages        18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -112,6 +108,6 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/chanrycz/chanrycz/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/06/2021
+ Last Updated on 21/06/2021
 <!--END_SECTION:waka-->
 </details>
