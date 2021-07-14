@@ -36,7 +36,7 @@
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-394697%20lines%20of%20code-blue)
 
@@ -83,7 +83,8 @@ Sunday       43 commits     █████░░░░░░░░░░░░�
 💬 Programming Languages: 
 HTML                     2 hrs 6 mins        ██████████████████████░░░   88.04% 
 JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.11% 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.85%
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
 Notepad++                2 hrs 13 mins       ███████████████████████░░   92.89% 
@@ -111,6 +112,6 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/chanrycz/chanrycz/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/07/2021
+ Last Updated on 14/07/2021
 <!--END_SECTION:waka-->
 </details>
