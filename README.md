@@ -31,7 +31,7 @@
 </p>
 
 <ul>
-    <li>I’m currently working on <a href="https://chanrycz.com/webhook-gui"><b>a Discord Webhook GUI</b></a></li>
+    <li>I’m currently working on <a href="https://ns.gov.sg"><b>🇸🇬 National Service</b></a></li>
     <li>All of my projects are available at <a href="https://chanrycz.com"><b>chanrycz.com</b></a></li>
     <li>You can reach me through my <a href="https://chanrycz.com/contact"><b>contact page</b></a></li>
     <li>Fun fact: <a href="https://en.wikipedia.org/wiki/Special:Random"><b>I like to look at random wikipedia articles</b></a></li>
