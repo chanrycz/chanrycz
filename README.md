@@ -28,12 +28,8 @@
 	<li>Fun fact: <a href="https://en.wikipedia.org/wiki/Special:Random"><b>I like to look at random wikipedia articles</b></a></li>
 </ul>
 
-<details open>
-	<summary><b>Coding Stats</b>:</summary>
-	<br>
-	<p align="center">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanrycz&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub&line_height=27&theme=graywhite"/>
-		<br><br>
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanrycz&theme=graywhite&langs_count=8&layout=compact&custom_title=Repo%20Languages" />
-	</p>
-</details>
+<h4>Coding Stats</h4>
+<br>
+<p align="center">
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chanrycz&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+</p>
